@@ -1,5 +1,5 @@
 ```
-local WindUI = loadstring(game:HttpGet("[https://github.com/Footagesus/WindUI/releases/latest/download/main.lua](https://raw.githubusercontent.com/Sukuna2134/Wind-UI/refs/heads/main/Wind%20UI.lua)"))()
+local WindUI = loadstring(game:HttpGet("https://github.com/Sukuna2134/Wind-UI/raw/refs/heads/main/Wind%20UI.lua"))()
 ```
 
 ```
